@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/giridharpatnaik183/testenv.git/static/css/main.6a09f96d.css",
-    "main.js": "/giridharpatnaik183/testenv.git/static/js/main.c38e18f8.js",
-    "static/js/592.48eff37f.chunk.js": "/giridharpatnaik183/testenv.git/static/js/592.48eff37f.chunk.js",
-    "static/media/weighbridge.png": "/giridharpatnaik183/testenv.git/static/media/weighbridge.1bdf69811284e8b4a67a.png",
-    "index.html": "/giridharpatnaik183/testenv.git/index.html",
-    "main.6a09f96d.css.map": "/giridharpatnaik183/testenv.git/static/css/main.6a09f96d.css.map",
-    "main.c38e18f8.js.map": "/giridharpatnaik183/testenv.git/static/js/main.c38e18f8.js.map",
-    "592.48eff37f.chunk.js.map": "/giridharpatnaik183/testenv.git/static/js/592.48eff37f.chunk.js.map"
+    "main.css": "/testenv/static/css/main.6a09f96d.css",
+    "main.js": "/testenv/static/js/main.f6deac98.js",
+    "static/js/592.48eff37f.chunk.js": "/testenv/static/js/592.48eff37f.chunk.js",
+    "static/media/weighbridge.png": "/testenv/static/media/weighbridge.1bdf69811284e8b4a67a.png",
+    "index.html": "/testenv/index.html",
+    "main.6a09f96d.css.map": "/testenv/static/css/main.6a09f96d.css.map",
+    "main.f6deac98.js.map": "/testenv/static/js/main.f6deac98.js.map",
+    "592.48eff37f.chunk.js.map": "/testenv/static/js/592.48eff37f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a09f96d.css",
-    "static/js/main.c38e18f8.js"
+    "static/js/main.f6deac98.js"
   ]
 }
